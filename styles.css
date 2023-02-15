@@ -1,5 +1,5 @@
 
-h1 {
+h1, h2 {
     margin: 0;
 }
 
@@ -10,8 +10,16 @@ body {
 .profile-div {
     text-align: center;
     background-color: #B6EADA;
+    padding: 20px;
 }
 
 .profile-img {
     width: 250px;
+}
+
+.favorites-div {
+    text-align: center;
+    background-color: #301E67;
+    color: white;
+    padding: 20px;
 }
